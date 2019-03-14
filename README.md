@@ -1,5 +1,4 @@
 # shoppingbasket
-
 ------------------------------------ Development Exercise ---------------------------------------------
 
 Please create a web application for the Shopping Basket that will use MySQL as the database.
