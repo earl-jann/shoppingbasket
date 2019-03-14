@@ -36,3 +36,7 @@ To run:
 
 In Eclipse/STS: run as Spring Boot
 In mvn console: mvn spring-boot:run
+
+Check in browser:
+
+http://localhost:9070/basket/index
