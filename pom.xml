@@ -67,7 +67,7 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!--  for mysql -->
+<!--  for mysql -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
@@ -76,7 +76,7 @@
 			<groupId>commons-dbcp</groupId>
 			<artifactId>commons-dbcp</artifactId>
 		</dependency>
-		<!--  for mysql -->
+<!--  for mysql -->
 
 	</dependencies>
 
